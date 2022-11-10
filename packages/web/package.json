@@ -37,7 +37,7 @@
     "crypto-browserify": "^3.12.0",
     "cssnano": "^5.0.8",
     "decco": "^1.5.0",
-    "electron": "^15.3.0",
+    "electron": "^18.3.7",
     "ethers": "^5.5.4",
     "gentype": "^4.2.0",
     "graphql": "^15.6.1",
